@@ -26,6 +26,9 @@ RUN tlmgr install \
   subfiles \
   standalone \
   jsclasses \
+  everyhook \
+  filehook \
+  svn-prov \
   jlreq \
   japanese-otf \
   jlreq-deluxe \
