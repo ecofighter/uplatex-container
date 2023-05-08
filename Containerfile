@@ -29,6 +29,8 @@ RUN tlmgr install \
   everyhook \
   filehook \
   svn-prov \
+  kvoptions \
+  infwarerr \
   jlreq \
   japanese-otf \
   jlreq-deluxe \
