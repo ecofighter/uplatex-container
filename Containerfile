@@ -31,6 +31,7 @@ RUN tlmgr install \
   svn-prov \
   kvoptions \
   infwarerr \
+  pxpgfmark \
   jlreq \
   japanese-otf \
   jlreq-deluxe \
