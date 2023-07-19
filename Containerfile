@@ -19,6 +19,7 @@ RUN tlmgr install \
   amsfonts \
   amsmath \
   mathtools \
+  jknapltx \
   tools \
   physics \
   braket \
@@ -31,20 +32,22 @@ RUN tlmgr install \
   svn-prov \
   kvoptions \
   infwarerr \
+  pgf \
   pxpgfmark \
+  pxjahyper \
+  plautopatch \
+  platex-tools \
   jlreq \
   japanese-otf \
   jlreq-deluxe \
   beamer \
   bxdpx-beamer \
-  pxjahyper \
   uplatex \
   dvipdfmx \
   adobemapping \
   haranoaji \
   haranoaji-extra \
   ptex-fontmaps \
-  plautopatch \
   cluttex
 RUN kanji-config-updmap-sys haranoaji
 RUN wget https://github.com/jgm/pandoc/releases/download/3.1.2/pandoc-3.1.2-linux-amd64.tar.gz
