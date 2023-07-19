@@ -19,6 +19,7 @@ RUN tlmgr install \
   amsfonts \
   amsmath \
   mathtools \
+  rsfs \
   jknapltx \
   tools \
   physics \
